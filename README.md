@@ -1,8 +1,17 @@
-# Getting Started with Create React App
+# Altun | Counting Down Vacation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Build with
+* [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Final Result
+
+<img alt="Screenshot eindresultaat" src="src/assets/screenshot.png"/>
+
+## Installation
+Once you have cloned the project to your local machine, first install the node_modules
+by running the following command in the terminal:
+
+`npm install`
 
 In the project directory, you can run:
 
